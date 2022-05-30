@@ -11,11 +11,12 @@
 
 ### Beschreibende Inhalte ausblenden
 Als Unternehmen will ich meine URL kürzen, um beschreibende Inhalte in der URL ausblenden zu können
-- Abnahmekriterien
+- Abnahmekriterien 
 
 ### Optimierung für Social-Media
 Als Benutzer will ich kurze Links benutzen können, um sie besser im Social-Media Profil anzeigen zu können
 - Abnahmekriterien
+  - test
 
 ### Optisch Ansprechender Link
 Als Druckunternehmen will ich kurze Links drucken, um dem Kunden keine Umstände zu bereiten und ein visuell gutes Bild zu erzeugen.
