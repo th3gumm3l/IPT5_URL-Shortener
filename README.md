@@ -9,20 +9,20 @@
 
 ## 👦 User Stories (DE)
 
-Beschreibende Inhalte ausblenden
+### Beschreibende Inhalte ausblenden
 Als Unternehmen will ich meine URL kürzen, um beschreibende Inhalte in der URL ausblenden zu können
 
-Optimierung für Social-Media
+### Optimierung für Social-Media
 Als Benutzer will ich kurze Links benutzen können, um sie besser im Social-Media Profil anzeigen zu können
 
-Optisch Ansprechender Link
+### Optisch Ansprechender Link
 Als Druckunternehmen will ich kurze Links drucken, um dem Kunden keine Umstände zu bereiten und ein visuell gutes Bild zu erzeugen.
 
-Kurze Links, wenig Zeichen
+### Kurze Links, wenig Zeichen
 Als Programmierer will ich kurze Links einbinden, um nicht zu viele Zeichen im Code zu haben. 
 
-Einfache Benutzeroberfläche
+### Einfache Benutzeroberfläche
 Als User will ich eine einfach verständliche Webseite, um den Überblick zu behalten.
 
-Kurze Ladezeiten
+### Kurze Ladezeiten
 Als User will ich schnell einen Link zurückbekommen, um schnell weiterarbeiten zu können.
