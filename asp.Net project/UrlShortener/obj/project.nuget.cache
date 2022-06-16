@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bv1NQ9F2fRW/Pj3pgzqzH16BDmPueTODEmrJF+iI3mGGrCcUEIl/9SnY9n+QP4QklTQDipegPCCR+jlFrgpcbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\timbe\\Documents\\Visual Studio 2022\\Projects\\th3gumm3l\\IPT5_URL-Shortener\\asp.Net project\\UrlShortener\\UrlShortener.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\timbe\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\timbe\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\timbe\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\timbe\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\timbe\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\timbe\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
