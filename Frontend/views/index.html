@@ -19,16 +19,12 @@
 
 <div class="body-container">
     <div class="urlbox">
-        <form class="urlbox-form" action="">
-            <h2>Geben Sie hier die zu kürzende URL ein:</h2>
-            
-            <div class="form-eingabe">
-                <input type="text" class="eingabeUser" name="eingabeUser" placeholder="Hier Link einfügen">
-                <div class="form-button">
-                    <input type="submit" value="Kürzen">
-                </div>
-            </div>
-        </form>
+        <h2>Geben Sie hier die zu kürzende URL ein</h2>
+        <div class="input-Eingabe">
+            <input type="text" id="url-input" class="eingabeUser" name="eingabeUser" placeholder="Hier Link einfügen">
+            <input type="button" class="buttonSubmit" value="Kürzen" onclick="submitLink()">
+        </div>
+        <a id="short-url"></a>
     </div>
     
     <div class="beschreibung-container">
@@ -51,6 +47,6 @@
     </footer>
 </div>
 
-
+<script src="../script.js"></script>
 </body>
 </html>
