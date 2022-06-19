@@ -1,0 +1,101 @@
+* {
+    margin: 0px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+/* Header */
+.Titel-container {
+    display: flex;
+    justify-content: center;
+    background-color: #31525b;
+    align-items: center;
+    height: 100px;
+    margin-bottom: 100px;
+}
+
+.Titel-text h1{
+    color: #FFA101;
+    background-color: #31525b;
+}
+
+
+/* Body */
+.body-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.urlbox{
+    display: flex;
+    width: 70%;
+    justify-content: center;
+    align-items: center;
+    background-color: lightgrey;
+    padding: 30px;
+    margin-bottom: 50px;
+}
+
+.urlbox-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.urlbox-form h2 {
+    margin-bottom: 30px;
+}
+
+.form-eingabe {
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.eingabeUser {
+    height: 1.5rem;
+    background-color: #f1ebda;
+    width: 20rem;
+}
+
+.form-button input {
+    background-color: white;
+    height: 100%;
+    width: 5rem;
+}
+
+.beschreibung-container {
+    width: 70%;
+    display: flex;
+    text-align: center;
+    background-color: lightgray;
+    padding: 30px;
+}
+
+.beschreibung-text h2 {
+    margin-bottom: 20px;
+}
+
+
+/* Footer */
+.footer-container {
+    display: flex;
+    margin-top: 100px;
+    justify-content: center;
+    background-color: #31525b;
+    text-align: center;
+    padding: 20px;
+}
+
+.footer a {
+    text-decoration: none;
+    color: white;
+}
+
+.footer a:hover {
+    color: blue;
+}
+
+.footer p {
+    color: white;
+}

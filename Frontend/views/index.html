@@ -9,23 +9,48 @@
 </head>
 <body>
 
-<div id="Titel">
-    <h1>Url Shortener</h1>
+<div class="header-container">
+    <div class="Titel-container">
+        <div class="Titel-text">
+            <h1>Url Shortener</h1>
+        </div>
+    </div>
 </div>
 
-<div id="form-container">
-    <form action="">
-        <div id="form-eingabe">
-            <label for="eingabeUser">Geben Sie hier die URL ein:</label> <br>
-            <input type="text" id="eingabeUser" name="eingabeUser">
-        </div>
+<div class="body-container">
+    <div class="urlbox">
+        <form class="urlbox-form" action="">
+            <h2>Geben Sie hier die zu kürzende URL ein:</h2>
+            
+            <div class="form-eingabe">
+                <input type="text" class="eingabeUser" name="eingabeUser" placeholder="Hier Link einfügen">
+                <div class="form-button">
+                    <input type="submit" value="Kürzen">
+                </div>
+            </div>
+        </form>
+    </div>
     
-        <br> <br>
-        <div id="form-button">
-            <input type="submit" value="Kürzen">
+    <div class="beschreibung-container">
+        <div class="beschreibung-text">
+            <h2>Ziel des Projekts</h2>
+            
+            <p>Der vermittelte Unterrichtsstoff der Module M226A und M226B soll in einer
+            individuellen Umsetzungsaufgabe gefestigt und vertieft werden. 
+            Diese Umsetzungsaufgabe wird mit einer Note im IPT-5.0 bewertet.
+            </p>
         </div>
-    </form>
+    </div>
 </div>
+
+
+<div class="footer-container">
+    <footer class="footer">
+        <p>Creator: Tim Bernhard</p>
+        <a href="https://github.com/th3gumm3l">GitHub Repository</a>
+    </footer>
+</div>
+
 
 </body>
 </html>
