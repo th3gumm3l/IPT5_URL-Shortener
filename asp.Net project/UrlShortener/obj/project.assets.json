@@ -214,11 +214,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\timbe\\Documents\\Visual Studio 2022\\Projects\\th3gumm3l\\IPT5_URL-Shortener\\asp.Net project\\UrlShortener\\UrlShortener.csproj",
+      "projectUniqueName": "C:\\Users\\timbe\\Documents\\Visual Studio 2022\\Projects\\GitHub\\th3gumm3l\\IPT5_URL-Shortener\\asp.Net project\\UrlShortener\\UrlShortener.csproj",
       "projectName": "UrlShortener",
-      "projectPath": "C:\\Users\\timbe\\Documents\\Visual Studio 2022\\Projects\\th3gumm3l\\IPT5_URL-Shortener\\asp.Net project\\UrlShortener\\UrlShortener.csproj",
+      "projectPath": "C:\\Users\\timbe\\Documents\\Visual Studio 2022\\Projects\\GitHub\\th3gumm3l\\IPT5_URL-Shortener\\asp.Net project\\UrlShortener\\UrlShortener.csproj",
       "packagesPath": "C:\\Users\\timbe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\timbe\\Documents\\Visual Studio 2022\\Projects\\th3gumm3l\\IPT5_URL-Shortener\\asp.Net project\\UrlShortener\\obj\\",
+      "outputPath": "C:\\Users\\timbe\\Documents\\Visual Studio 2022\\Projects\\GitHub\\th3gumm3l\\IPT5_URL-Shortener\\asp.Net project\\UrlShortener\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
