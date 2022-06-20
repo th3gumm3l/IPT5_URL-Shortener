@@ -12,8 +12,14 @@
  Now the Backend for the website is online. You should be able to shorten your links. Don't forget to paste them with the https:// in front.
 <br> <br>
 
-## 👦 User Stories
+## 🧰Usage
+  1. Copy a link from the internet
+  2. Make sure the Link has https:// in front
+  3. Paste the link into the field and press enter
+  4. You should now have a shortened link with your localhost-adress.
+<br><br> 
 
+## 👦 User Stories
 ### Hide descriptive content
 As a company I want to shorten my URL to be able to hide descriptive content in the URL
 - Acceptance criteria
