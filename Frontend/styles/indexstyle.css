@@ -169,6 +169,12 @@
     background-color: lightgray;
     padding: 40px;
     margin-bottom: 50px;
+    transition: 0.5s;
+}
+
+.imagebox:hover {
+    box-shadow: 0px 0px 20px 6px white;
+    transition: 0.5s;
 }
 
 .imagebox h1 {
@@ -177,4 +183,38 @@
 
 .imagebox img {
     width: 100%;
+}
+
+/*USERSTORIES.HTML*/
+.userstory-titel {
+    margin-bottom: 50px;
+}
+
+.userStory-Box {
+    width: 60%;
+    background-color: lightgray;
+    padding: 30px;
+    margin-bottom: 30px;
+    transition: 0.5s;
+}
+
+.userStory-Box:hover {
+    box-shadow: 0px 0px 20px 6px white;
+    transition: 0.5s;  
+}
+
+.userStory-Box h2 {
+    margin-bottom: 15px;
+}
+
+.userStory-Box p {
+    margin-bottom: 10px;
+}
+
+.userStory-Box h4 {
+    margin-bottom: 5px;
+}
+
+.userStory-Box li {
+    margin-left: 30px;
 }
