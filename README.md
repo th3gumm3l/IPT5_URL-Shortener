@@ -54,3 +54,16 @@ As a user, I want to get a link back quickly so I can continue working quickly.
 - Acceptance criteria
   - Code should be optimized and shortened
   - Try to consider clean code requirements
+<br><br>
+
+## 🥇Self-reflection
+1. The biggest problem at the beginning was getting used to asp.Net. At first, I had a lot of trouble figuring out how to approach the topic. <br>
+I overcame the issue by asking my colleague Yazdan Musa. He was able to help me with everything from start to finish as he is a professional.
+
+2. The topic asp.Net didn't leave me alone. I would have been happy if we had had this as a module at school with the teacher because I think the backend is very important. The problem was constantly imagining how that works and how that communicates with the frontend. As a solution to this problem, I looked at tutorials and explanations. I will keep myself informed about it in the future.
+
+3. Another problem was getting used to HTML and CSS again. To my surprise, this was reintroduced relatively quickly. In the end, I had fewer trouble finding my way around. 
+
+4. The following problem was astounding for me personally: I haven't had any major problems dividing my time up to now, but it was a challenge for me with this project. I can only explain it to myself because it's the end of the semester and the energy is gone. I couldn't explain this problem any other way. I solved it by pulling myself together again and again and working on the project for a few hours.
+
+5. Furthermore, I initially had problems with my folder structure. I didn't know how to structure my folders and how to pack them with the other subfolders. I solved that by looking at the structures of others and comparing them with previous projects.

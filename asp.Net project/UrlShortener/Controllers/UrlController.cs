@@ -38,6 +38,6 @@ public class UrlController : ControllerBase
         return Redirect(url);
     }
 
-    //Created by Yazdan Muza: https://github.com/Zayden16
+    //Created by Yazdan Musa: https://github.com/Zayden16
     // I asked Yazdan for help and he explained me what he's going to do. In the end he wrote this page for me, because he works daily with asp.NET
 }
