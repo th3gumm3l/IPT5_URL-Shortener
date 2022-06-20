@@ -1,5 +1,17 @@
 # IPT5 URL-Shortener
 
+## 📖Installation
+ 1. Fork this project to your repositorys
+ 2. Open this project in Visual Studio and Visual Studio Code
+ 3. Install Live Server on VSCode
+ 4. Open the index.html with Live Server (index.html is in ./Frontend/Views)
+ 5. Open this project now in Visual Studio (currently using v2022)
+ 6. Switch to asp.Net project and double click the UrlShortener.sln
+ 7. Now start the backend with the green start button on top
+
+ Now the Backend for the website is online. You should be able to shorten your links. Don't forget to paste them with the https:// in front.
+<br> <br>
+
 ## 👦 User Stories
 
 ### Hide descriptive content
@@ -36,40 +48,3 @@ As a user, I want to get a link back quickly so I can continue working quickly.
 - Acceptance criteria
   - Code should be optimized and shortened
   - Try to consider clean code requirements
-
-## 👦 User Stories (DE)
-
-### Beschreibende Inhalte ausblenden
-Als Unternehmen will ich meine URL kürzen, um beschreibende Inhalte in der URL ausblenden zu können
-- Abnahmekriterien
-  - Der Link soll einen schlauen "Namen" haben
-
-### Optimierung für Social-Media
-Als Benutzer will ich kurze Links benutzen können, um sie besser im Social-Media Profil anzeigen zu können
-- Abnahmekriterien
-  - Kleine Anzahl Zeichen im Link
-
-### Optisch Ansprechender Link
-Als Druckunternehmen will ich kurze Links drucken, um dem Kunden keine Umstände zu bereiten und ein visuell gutes Bild zu erzeugen.
-- Abnahmekriterien
-  - Der Link soll wenig Sonderzeichen enthalten und Sinnvoll sein
-
-### Kurze Links, wenig Zeichen
-Als Programmierer will ich kurze Links einbinden, um nicht zu viele Zeichen im Code zu haben. 
-- Abnahmekriterien
-  - Wenig Zeichen im Link
-
-### Einfache Benutzeroberfläche
-Als User will ich eine einfach verständliche Webseite, um den Überblick zu behalten.
-- Abnahmekriterien
-  - Design ist minimalistisch
-  - Buttons sind verständlich
-  - Benutzer muss nicht lange suchen
-  - Gute Übersicht auf der Webseite
-  - Webseite soll ein Formular haben, um Probleme/Feedback mitzuteilen
-
-### Kurze Ladezeiten
-Als User will ich schnell einen Link zurückbekommen, um schnell weiterarbeiten zu können.
-- Abnahmekriterien
-  - Code soll optimiert sein und gekürzt
-  - Clean-Code Anforderungen berücksichtigen versuchen
