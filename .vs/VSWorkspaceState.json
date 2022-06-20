@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\asp.Net project",
+    "\\asp.Net project\\UrlShortener"
   ],
+  "SelectedNode": "\\asp.Net project\\UrlShortener\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
